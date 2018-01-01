@@ -2,13 +2,15 @@
 
 ## Intallation
 
+Tested on Ubuntu.
+
 This package assumes Keras, tensorflow, h5py, pyplot, pandas and some more
 libraries installed in a Python3 virtual environment.
 
 Create it using requirements.txt and pip3.
 
 ```
-sudo apt-get install python3-pip python3-dev python-virtualenv
+sudo apt-get install python3-pip python3-dev python-virtualenv python3-tk
 ```
 
 Then create venv
@@ -43,5 +45,5 @@ or
 
 
 ```
-pip3 install --upgrade tensorflow keras h5py graphviz pydot pandas
+pip3 install --upgrade tensorflow keras h5py graphviz pydot pandas matplotlib
 ```
