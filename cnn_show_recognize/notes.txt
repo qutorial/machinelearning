@@ -1,0 +1,2 @@
+Sample #445 is 6 but gets recognized as 0.
+Sample #1112 is 4 but gets recognized as 6.
