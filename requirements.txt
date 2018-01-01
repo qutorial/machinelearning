@@ -3,6 +3,7 @@ apturl==0.5.2
 bleach==1.5.0
 chardet==2.3.0
 command-not-found==0.3
+cycler==0.10.0
 defer==1.0.6
 enum34==1.1.6
 graphviz==0.8.2
@@ -11,6 +12,7 @@ html5lib==0.9999999
 Keras==2.1.2
 language-selector==0.1
 Markdown==2.6.10
+matplotlib==2.1.1
 numpy==1.13.3
 pandas==0.22.0
 pexpect==4.0.1
