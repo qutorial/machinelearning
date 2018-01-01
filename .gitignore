@@ -1,0 +1,16 @@
+# General
+.bundle
+.DS_Store
+.DS_Store?
+*.swp
+*.bak
+*.save
+*.log
+.idea
+*.sage
+*.orig
+*.old
+*.pyc
+# Rails
+.byebug_history
+coverage
