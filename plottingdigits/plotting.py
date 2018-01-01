@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 # load (downloaded if needed) the MNIST dataset
 (X_train, y_train), (X_test, y_test) = mnist.load_data()
 # plot 4 images as gray scale
-plt.subplot(221)
+plt.subplot(221) # 2x2 grid, number 1 = 2 2 1 = 221
 plt.imshow(X_train[0], cmap=plt.get_cmap('gray'))
 plt.subplot(222)
 plt.imshow(X_train[1], cmap=plt.get_cmap('gray'))
