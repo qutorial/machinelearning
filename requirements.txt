@@ -43,7 +43,7 @@ tensorflow-tensorboard==0.4.0rc3
 ubuntu-drivers-common==0.0.0
 ufw==0.35
 unattended-upgrades==0.1
-urllib3==1.13.1
+urllib3==1.26.5
 virtualenv==15.0.1
 Werkzeug==0.14.1
 xkit==0.0.0
