@@ -8,7 +8,7 @@ defer==1.0.6
 enum34==1.1.6
 graphviz==0.8.2
 h5py==2.7.1
-html5lib==0.9999999
+html5lib==0.99999999
 Keras==2.1.2
 language-selector==0.1
 Markdown==2.6.10
