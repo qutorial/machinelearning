@@ -13,7 +13,7 @@ Keras==2.1.2
 language-selector==0.1
 Markdown==2.6.10
 matplotlib==2.1.1
-numpy==1.13.3
+numpy==1.22.0
 pandas==0.22.0
 pexpect==4.0.1
 Pillow==3.1.2
